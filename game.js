@@ -36,7 +36,7 @@ function fillBlanks() {
 
     $(".clickable").click(function () {
         var correctGuess = false;      
-ed
+
         let id = $(this).attr("id");
 
 
